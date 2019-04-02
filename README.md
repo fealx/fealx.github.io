@@ -1,2 +1,2 @@
 # fealx.github.io
-feal.ga
+fealx.ga
